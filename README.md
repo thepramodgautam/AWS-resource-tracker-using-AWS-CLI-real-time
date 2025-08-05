@@ -1,7 +1,6 @@
 # 🛰️ AWS Resource Tracker using AWS CLI - Real Time
 
 Track and monitor your AWS infrastructure effortlessly using a **Bash script powered by AWS CLI**. This tool helps DevOps engineers and cloud admins get real-time updates on Amazzon web services like **EC2**, **S3**, **Lambda**, and **IAM users**.
-## 🏷️ Skills Used
 
 ## 🏷️ Skills Used
 
@@ -32,13 +31,16 @@ It improves cloud visibility, can be scheduled via cron jobs, and outputs well-f
 ---
 📸 Screenshots
 ✅ EC2 & IAM Tracking
-<img width="160" height="84" alt="image" src="https://github.com/user-attachments/assets/c5418ffe-7f36-4bfc-ab38-f9ed45766f6b" />
+<img width="800" height="438" alt="image" src="https://github.com/user-attachments/assets/6dc89e78-a135-4e63-b780-0fec75dce246" />
+
 
 📄 S3 Buckets & Lambda Output
-<img width="160" height="128" alt="image" src="https://github.com/user-attachments/assets/913d3c87-5ae8-46da-9a03-c41c9cc0778e" />
+<img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/89bbd64d-0b40-4eb3-bb94-5dc9b40ec431" />
+
 
 💻 Script in Action
-<img width="160" height="87" alt="image" src="https://github.com/user-attachments/assets/c19d6ee4-6dd1-413a-b508-7b451571dd9d" />
+<img width="800" height="643" alt="image" src="https://github.com/user-attachments/assets/b8e771e0-421d-4521-a123-5829e41abb97" />
+
 
 
 ## 🔥 Features
