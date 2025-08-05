@@ -1,6 +1,6 @@
 # 🛰️ AWS Resource Tracker using AWS CLI - Real Time
 
-Track and monitor your AWS infrastructure effortlessly using a **Bash script powered by AWS CLI**. This tool helps DevOps engineers and cloud admins get real-time updates on AWS services like **EC2**, **S3**, **Lambda**, and **IAM users**.
+Track and monitor your AWS infrastructure effortlessly using a **Bash script powered by AWS CLI**. This tool helps DevOps engineers and cloud admins get real-time updates on Amazzon web services like **EC2**, **S3**, **Lambda**, and **IAM users**.
 ## 🏷️ Skills Used
 
 ## 🏷️ Skills Used
